@@ -1,3 +1,13 @@
 img {
-    max-width: 80%;
+    width: 300px;
+}
+h2 {
+     color: #e63946;
+}
+ 
+#header {
+    background-color: #f1faee;
+}
+.section {
+    background-color: #a8dadc;
 }

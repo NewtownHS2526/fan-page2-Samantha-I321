@@ -30,11 +30,11 @@ Your task is to add styling to this website. You will access elements of the pag
 4. Now, let's add a different color `#a8dadc` to the about and the achievements sections. Instead of writing these color changes individually, notice in the `index.html` how the two `divs` and no others have a class name `class="section"`. We can access the sections by class name using the following declaration:
     ```css
     .section {
-        background-color: #a8dadc;
+        background-color: #a8dadc; 
     }
-    ```
+    ``` 
 
-5. Use this same technique of accessing multiple `divs` by class name to add the following properties to each of Frida Kahlo's achievements. You'll need to locate the 4 `divs` and give them each the same class name: `class="feature"`.
+5. Use this same technique of accessing multiple `divs` by class name to add the following properties to each of Frida Kahlo's achievements. You'll need to locate the 4 `divs` and give them each the same class name: `class="feature"`. 
     - Change the `background-color` to `#457b9d`
     - Change the font `color` to `#f1faee`
 
